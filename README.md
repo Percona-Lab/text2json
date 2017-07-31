@@ -32,8 +32,6 @@ Tis block:
 # MySQL Executable ###########################################
        Path to executable | /home/karl/mysql/my-5.6.36/bin/mysqld
               Has symbols | Yes
-       Path to executable | /usr/sbin/mysqld
-              Has symbols | No
 ```
 will be parsed as a hash:
 ```
